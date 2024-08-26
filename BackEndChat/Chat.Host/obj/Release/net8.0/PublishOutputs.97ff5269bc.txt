@@ -1,0 +1,11 @@
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Chat.Host.exe
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Chat.Host.dll
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Chat.Host.deps.json
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Chat.Host.runtimeconfig.json
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Chat.Host.pdb
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\TaskForWork\ChatOnline\Chat.Host\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
