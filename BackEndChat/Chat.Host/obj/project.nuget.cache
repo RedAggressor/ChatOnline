@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNkQRDSU2B2eKGrhH0wgYBacJvHpcGZ0sdGWpqq86OSwneyItD7E280dEvovV7tR/UhTDtdDhW0rzj2FeBEx2w==",
+  "dgSpecHash": "JaJN5uFnC052NppfKeXpZvqodd4uLcabcmCPdS9pSHuxwDWalyrTyrzcQU5naBNiNTOSvUM1J+AheP+wyud9Ig==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TaskForWork\\ChatOnline\\Chat.Host\\Chat.Host.csproj",
+  "projectFilePath": "D:\\Projects\\ChatOnline\\ChatOnline\\BackEndChat\\Chat.Host\\Chat.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chang\\.nuget\\packages\\azure.ai.textanalytics\\5.3.0\\azure.ai.textanalytics.5.3.0.nupkg.sha512",
     "C:\\Users\\chang\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

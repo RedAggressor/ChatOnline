@@ -34,10 +34,9 @@ namespace Chat.Host.Services
         }
 
         private async Task AddOrUpdatePrivateAsync<T>(string key, T value,
-            IDatabase redis = null!, TimeSpan? expiry = null)
+            IDatabase redis = null!)
         {
-            redis = redis ?? GetRedisDatabase();
-            //expiry = expiry ?? _config.CacheTimeout;
+            redis = redis ?? GetRedisDatabase();            
 
             var serialized = _jsonProcess.Serialize(value);
 

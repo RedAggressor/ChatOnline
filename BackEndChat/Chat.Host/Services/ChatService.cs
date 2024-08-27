@@ -36,12 +36,12 @@ namespace Chat.Host.Services
                 await _messageRepository.AddMessageAsync(new MessageEntity()
                 {
                     Message = message,
-                    SentimentId = sentimentEntity.Id,
+                    SentimentId = sentimentEntity!.Id,
                 });
             }
             catch (Exception ex)
-            { 
-                // _logger.Error(ex.Message);
+            {
+                Console.WriteLine(ex.Message);// _logger.Error(ex.Message);
             }            
 
             return SetColor(sentimentResult);

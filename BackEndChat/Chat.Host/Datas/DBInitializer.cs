@@ -1,6 +1,4 @@
 ﻿using Chat.Host.Datas.Entities;
-using Chat.Host.Models;
-using Microsoft.IdentityModel.Tokens;
 
 namespace Chat.Host.Datas
 {

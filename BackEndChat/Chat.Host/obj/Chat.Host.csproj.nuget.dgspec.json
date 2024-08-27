@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\TaskForWork\\ChatOnline\\Chat.Host\\Chat.Host.csproj": {}
+    "D:\\Projects\\ChatOnline\\ChatOnline\\BackEndChat\\Chat.Host\\Chat.Host.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\TaskForWork\\ChatOnline\\Chat.Host\\Chat.Host.csproj": {
+    "D:\\Projects\\ChatOnline\\ChatOnline\\BackEndChat\\Chat.Host\\Chat.Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\TaskForWork\\ChatOnline\\Chat.Host\\Chat.Host.csproj",
+        "projectUniqueName": "D:\\Projects\\ChatOnline\\ChatOnline\\BackEndChat\\Chat.Host\\Chat.Host.csproj",
         "projectName": "Chat.Host",
-        "projectPath": "D:\\Projects\\TaskForWork\\ChatOnline\\Chat.Host\\Chat.Host.csproj",
+        "projectPath": "D:\\Projects\\ChatOnline\\ChatOnline\\BackEndChat\\Chat.Host\\Chat.Host.csproj",
         "packagesPath": "C:\\Users\\chang\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\TaskForWork\\ChatOnline\\Chat.Host\\obj\\",
+        "outputPath": "D:\\Projects\\ChatOnline\\ChatOnline\\BackEndChat\\Chat.Host\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\ProgramFiles\\fv\\NuGetPackages"

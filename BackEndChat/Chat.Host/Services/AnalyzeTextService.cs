@@ -3,16 +3,11 @@ using Azure.AI.TextAnalytics;
 using Chat.Host.Configurations;
 using Chat.Host.Services.Abstractions;
 using Microsoft.Extensions.Options;
-using StackExchange.Redis;
 
 namespace Chat.Host.Services
 {
     public class AnalyzeTextService : IAnalyzeTextService
     {
-        //private const string _privateKey = config.Value.Endpoint;//"e6377110c7ed43fc95cc29016c9cb27e";
-        //"https://azureanalyzesentiment.cognitiveservices.azure.com/";
-
-
         private readonly AzureKeyCredential _azureCredential;
         private readonly TextAnalyticsClient _client;
 
