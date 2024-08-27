@@ -9,7 +9,7 @@ namespace Chat.Host.Redis
     {
         private readonly Lazy<ConnectionMultiplexer> _connectionLazy;
         private bool _disposed;
-        
+
         public RedisCacheConnection(IOptions<RedisConfig> config)
         {
             var redisConfigurationOptions = ConfigurationOptions.Parse(config.Value.ConectionString);
