@@ -12,7 +12,7 @@ function App() {
   const JoinRoom = async (userName, roomName) => {    
 
     var connection = new HubConnectionBuilder()
-        .withUrl("http://localhost:5143/chatHub")
+        .withUrl("https://chathubonline.azurewebsites.net/ChatHub")
         .withAutomaticReconnect()
         .build();
 
