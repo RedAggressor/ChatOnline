@@ -39,7 +39,7 @@ builder.Services.AddCors(option =>
 {
     option.AddDefaultPolicy(policy =>
     {
-        policy.WithOrigins("https://chatonlineui.azurewebsites.net", "http://localhost:3000")
+        policy.WithOrigins("https://chatonlineui.azurewebsites.net")
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();
