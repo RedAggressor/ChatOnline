@@ -29,6 +29,7 @@ function App() {
 
           setConnection(connection);
           setRoomName(roomName);
+          setUserName(userName);
 
         } catch(error){
           console.log(error)
@@ -58,7 +59,8 @@ function App() {
           messages={messages}
           roomName={roomName} 
           closeChat={closeRoom} 
-          sendMessage={sendMessage}           
+          sendMessage={sendMessage}
+          userName={userName}       
         /> 
       ) : (
         <WaitingRoom JoinRoom={JoinRoom}/> 

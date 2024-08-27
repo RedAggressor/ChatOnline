@@ -16,20 +16,24 @@ export const WaitingRoom = ({JoinRoom}) => {
       onSubmit={onSubmit} 
       className="max-w-sm w-full bg-white p-8 rounded shadow-lg"
     >
-        <Heading>Chat room</Heading>
+        <Heading>Connect room</Heading>
         <div className="mb-4">
             <Text fontSize={"sm"}>User name</Text>
             <input 
                 onChange={(event) => setUserName(event.target.value)}
                 name="UserName"
-                placeholder="Enter user name"/>
+                placeholder="Enter user name"
+                required
+            />
         </div>
         <div className="mb-4">
             <Text fontSize={"sm"}>Channel name</Text>
             <input 
                 onChange={(event) => setRoomName(event.target.value)}
                 name="ChannelName"
-                placeholder="Enter channel name"/>
+                placeholder="Enter channel name"
+                required
+            />
         </div>
         <Button type="submit"colorScheme="blue">
             Connect to room
